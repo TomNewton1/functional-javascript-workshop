@@ -1,4 +1,4 @@
-function upperCaser(input) {
+function upperCaser(input: string) {
   return input.toLocaleUpperCase();
 }
 
