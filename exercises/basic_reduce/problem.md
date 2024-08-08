@@ -11,7 +11,7 @@ console.log(countWords(inputWords))
 
 // =>
 // {
-//   Apple: 2,
+//   Apple: 2,\
 //   Banana: 1,
 //   Durian: 3
 // }
